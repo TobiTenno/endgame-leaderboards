@@ -1,4 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
+
+## Current Events
+
+* [Template](current-events/template.md)
+
+## Past Events
+
+* [Template](past-events/template.md)
 
