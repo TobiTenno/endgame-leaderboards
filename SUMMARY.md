@@ -4,7 +4,8 @@
 
 ## Current Events
 
-* [Template](current-events/template.md)
+* [Leaderboards](current-events/current-leaderboards/README.md)
+  * [Spy](current-events/current-leaderboards/spy.md)
 
 ## Past Events
 
