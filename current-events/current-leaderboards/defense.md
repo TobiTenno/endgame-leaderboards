@@ -2,108 +2,108 @@
 
 Lith, Earth
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Tessera, Venus
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Lares, Mercury
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Spear, Mars
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Gulliver, Phobos
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Casta, Ceres
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Io, Jupiter
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Paimon, Europa
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Helene, Saturn
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Stephano, Uranus
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Proteus, Neptune
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Hydron, Sedna
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Kala-azar, Eris
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Outer Terminus, Pluto
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Stöfler, Lua
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Taranis, Void
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Belenus, Void
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
 
 Nabuk, Kuva Fortress
 
-| Leaders | Time |
-| :--- | :--- |
-|  |  |
+| Leaders | Waves | Time |
+| :--- | :--- | :--- |
+|  |  |  | 
