@@ -1,7 +1,5 @@
 # Elite Sanctuary Onslaught
 
-Cambria, Earth
-
-| Leaders | Time |
+| Leaders | Score |
 | :--- | :--- |
 |  |  |
