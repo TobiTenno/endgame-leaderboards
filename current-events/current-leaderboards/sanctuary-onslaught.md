@@ -1,5 +1,5 @@
 # Sanctuary Onslaught
 
-| Leaders | Score |
-| :--- | :--- |
-|  |  |
+| Leaders | Zone | Score |
+| :--- | :--- | :--- |
+|  |  |  | 
