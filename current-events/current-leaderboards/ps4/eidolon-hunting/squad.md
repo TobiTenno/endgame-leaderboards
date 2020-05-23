@@ -30,8 +30,6 @@ Single Teralyst
 |  |  |
 |  |  |
 
-
-
 2x3
 
 | Leaders | Time |
@@ -46,8 +44,6 @@ Single Teralyst
 |  |  |
 |  |  |
 |  |  |
-
-
 
 3x3
 
@@ -64,10 +60,6 @@ Single Teralyst
 |  |  |
 |  |  |
 
-
-
-
-
 4x3
 
 | Leaders | Time |
@@ -83,10 +75,6 @@ Single Teralyst
 |  |  |
 |  |  |
 
-
-
-
-
 5x3
 
 | Leaders | Time |
@@ -101,10 +89,6 @@ Single Teralyst
 |  |  |
 |  |  |
 |  |  |
-
-
-
-
 
 6x3
 

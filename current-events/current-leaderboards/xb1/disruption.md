@@ -15,8 +15,6 @@ Olympus, Mars
 |  |  |  |
 |  |  |  |
 
-
-
 Laomedia, Neptune
 
 | Leaders | Rounds | Time |
@@ -31,8 +29,6 @@ Laomedia, Neptune
 |  |  |  |
 |  |  |  |
 |  |  |  |
-
-
 
 Apollo, Lua
 
@@ -49,10 +45,6 @@ Apollo, Lua
 |  |  |  |
 |  |  |  |
 
-
-
-
-
 Kelpie, Sedna
 
 | Leaders | Rounds | Time |
@@ -67,8 +59,6 @@ Kelpie, Sedna
 |  |  |  |
 |  |  |  |
 |  |  |  |
-
-
 
 Ganymede, Jupiter
 
@@ -85,8 +75,6 @@ Ganymede, Jupiter
 |  |  |  |
 |  |  |  |
 
-
-
 Tamu, Kuva Fortress
 
 | Leaders | Rounds | Time |
@@ -101,8 +89,6 @@ Tamu, Kuva Fortress
 |  |  |  |
 |  |  |  |
 |  |  |  |
-
-
 
 Ur, Uranus
 

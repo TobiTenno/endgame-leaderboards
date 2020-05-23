@@ -1,4 +1,4 @@
-# Switch
+# XB1
 
 {% page-ref page="eidolon-hunting/" %}
 
@@ -29,6 +29,4 @@
 {% page-ref page="spy.md" %}
 
 {% page-ref page="survival.md" %}
-
-
 

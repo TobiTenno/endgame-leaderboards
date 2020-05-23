@@ -30,5 +30,3 @@
 
 {% page-ref page="survival.md" %}
 
-
-
