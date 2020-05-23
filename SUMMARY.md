@@ -5,6 +5,7 @@
 ## Current Events
 
 * [Leaderboards](current-events/current-leaderboards/README.md)
+  * [Arena](current-events/current-leaderboards/arena.md)
   * [Assassination](current-events/current-leaderboards/assassination.md)
   * [Capture](current-events/current-leaderboards/capture.md)
   * [Defense](current-events/current-leaderboards/defense.md)
